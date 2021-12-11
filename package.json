@@ -1,0 +1,19 @@
+{
+  "name": "stunnify",
+  "version": "1.0.0",
+  "description": "\"Stunnify harnesses the power of styled-components and sass\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmeizT/stunnify-ui.git"
+  },
+  "author": "Ameiz T. Joao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmeizT/stunnify-ui/issues"
+  },
+  "homepage": "https://github.com/AmeizT/stunnify-ui#readme"
+}

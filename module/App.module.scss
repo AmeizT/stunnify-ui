@@ -1,0 +1,15 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+:root {
+    --bar-hs: 60px;
+    --bar-hm: 72px;
+    --bar-hx: 84px;
+    --snow: #ffffff;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
